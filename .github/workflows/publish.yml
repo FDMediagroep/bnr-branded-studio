@@ -22,3 +22,5 @@ jobs:
       run: npm ci
     - name: Deploy
       run: npm run deploy
+      env:
+        SANITY_AUTH_TOKEN: ${{secrets.SANITY_AUTH_TOKEN}}
