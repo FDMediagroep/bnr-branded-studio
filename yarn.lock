@@ -1501,10 +1501,13 @@
     es6-error "^4.0.2"
     type-of-is "^3.5.1"
 
-"@sanity/vision@^2.2.6":
-  version "2.2.6"
-  resolved "https://registry.npmjs.org/@sanity/vision/-/vision-2.2.6.tgz#b89ff4e2338c715846184f60cef812f6f935b71e"
+"@sanity/vision@^2.7.3":
+  version "2.7.3"
+  resolved "https://registry.yarnpkg.com/@sanity/vision/-/vision-2.7.3.tgz#fdb66c2ba33963d255bd2a0901ff13ea1ffb3327"
+  integrity sha512-bnXuAlpIO002f9pCFIELY7cjPGS/ewV43GEoixL5NAEVXptC5S1e9pCv8uIX7/U5S7g3FJwdQ64hW/glAYKo/g==
   dependencies:
+    "@sanity/icons" "^1.0.5"
+    "@sanity/ui" "^0.33.9"
     classnames "^2.2.5"
     codemirror "^5.47.0"
     moment "^2.19.1"
