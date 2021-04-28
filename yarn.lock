@@ -915,7 +915,7 @@
   version "1.1.2"
   resolved "https://registry.npmjs.org/@sanity/asset-utils/-/asset-utils-1.1.2.tgz#d6b4b875bee4189cb56f274a7fb5494174463cb2"
 
-"@sanity/base@2.9.1", "@sanity/base@^2.8.0":
+"@sanity/base@2.9.1", "@sanity/base@^2.9.1":
   version "2.9.1"
   resolved "https://registry.yarnpkg.com/@sanity/base/-/base-2.9.1.tgz#889f424ce50d429999e45b1bea3089cece5edaf0"
   integrity sha512-Na1jzFLflRF9p71kC2BzoS1WK3Mrz4lEHvlXtjy7Arrdex4+2NjnVgnsnH0v4Drhxxzd6MEtZ6cGuxjhxV32Kw==
